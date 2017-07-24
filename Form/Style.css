@@ -1,0 +1,56 @@
+.conten{
+    width: 400px;
+    height:auto;
+    border: 1px solid salmon;
+    margin: auto;
+}
+.header{
+    background-color: darkorange;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding:7px;
+}
+.conten label{
+    display: inline-block;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 10px;
+    width:100px;
+    color: blue;
+}
+.sothich{
+    padding-left: 114px;
+}
+.submit{
+    text-align: center ;
+}
+span{
+    width: 70px;
+    color: orangered;
+    display: inline-block;
+}
+
+
+.conten1{
+    width: 600px;
+    text-align: left;
+    background-color: darksalmon;
+    margin: auto;
+}
+.header1{
+    background-color:blue;
+    color: white;
+    padding: 7px;
+    font-size: 25px;
+}
+.conten1 label{
+    display: inline-block;
+    padding-top: 10px;
+    width: 100px;
+    color: blue;
+}
+.submit1{
+    padding-left: 100px;
+    padding-top: 10px;
+}
